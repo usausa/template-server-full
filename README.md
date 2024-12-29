@@ -1,1 +1,1 @@
-# template-server-full
+# teplate-server-full
